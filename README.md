@@ -10,7 +10,5 @@ For detailed environment setup and installation guidance, please refer to the of
 
 ## 📊 Data Availability
 
-The original dataset used in this study is publicly available at [Figshare, DOI: 10.6084/m9.figshare.30341920](https://doi.org/10.6084/m9.figshare.30341920).  
-It includes configuration files, pretrained model weights (.pt), and logs used for model evaluation.
-The core framework scripts for single, dual, and triple objective optimization have been included in this repository.
+The original dataset used in this study is publicly available at [Figshare, DOI: 10.6084/m9.figshare.30341920](https://doi.org/10.6084/m9.figshare.30341920).  It includes configuration files, pretrained model weights (.pt), and logs used for model evaluation.The core framework scripts for single, dual, and triple objective optimization have been included in this repository.
 
